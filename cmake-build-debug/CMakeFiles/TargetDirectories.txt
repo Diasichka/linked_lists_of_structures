@@ -1,0 +1,3 @@
+C:/Users/Denis/Downloads/Telegram Desktop/pr_c_2023/pr2023c/cmake-build-debug/CMakeFiles/pr2023c.dir
+C:/Users/Denis/Downloads/Telegram Desktop/pr_c_2023/pr2023c/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Denis/Downloads/Telegram Desktop/pr_c_2023/pr2023c/cmake-build-debug/CMakeFiles/rebuild_cache.dir
